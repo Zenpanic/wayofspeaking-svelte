@@ -1,0 +1,118 @@
+html {
+	background-color: #f7fafc;
+	scroll-behavior: smooth;
+}
+
+h2 {
+	font-weight: 700;
+}
+
+.top-page {
+	display: flex;
+	flex-direction: column;
+	flex-wrap: nowrap;
+}
+
+#about-me {
+	background-color: #02aab0;
+	background-image: linear-gradient(135deg, #02aab0 0%, #00cdac 100%);
+	color: white;
+}
+
+#contact {
+	background-color: #02aab0;
+	background-image: linear-gradient(135deg, #02aab0 0%, #00cdac 100%);
+	clip-path: polygon(0 15vh, 100% 0, 100% 100%, 0 100%);
+	color: white;
+}
+
+.submit_button {
+	margin-top: 2rem;
+	background-color: white;
+}
+
+.hide {
+	visibility: hidden;
+}
+
+label {
+	font-size: 2rem;
+}
+
+.invisible {
+	display: none;
+}
+
+.fancy-field {
+	display: none;
+}
+
+@media only screen and (min-width: 700px) {
+	#about-me {
+		clip-path: polygon(0 0, 100% 0, 100% 100%, 0 80%);
+		padding-bottom: 4rem;
+	}
+}
+
+.homeButton {
+	padding: 0;
+	top: 50%;
+	right: 2em;
+	position: fixed;
+	z-index: 10;
+}
+
+.legalBreaker {
+	width: 50%;
+	text-align: center;
+	margin-top: 2em;
+}
+
+.legal-site-title {
+	margin: auto;
+	text-align: center;
+	padding: 1em 0 1em 0;
+	font-weight: 900;
+	font-size: 4em;
+	cursor: pointer;
+}
+
+.title-home-link,
+.title-home-link:visited,
+.title-home-link:focus,
+.title-home-link:hover,
+.title-home-link:active {
+	text-decoration: none;
+	color: #cb0e43;
+}
+
+.mentions,
+.mentions:visited,
+.mentions:focus,
+.mentions:hover,
+.mentions:active {
+	text-decoration: none;
+	color: grey;
+}
+
+.legalContainer {
+	padding: 2em 1em 2em 1em;
+}
+
+.legalContainer > p {
+	font-weight: 500;
+	line-height: 1.3em;
+	font-size: 1.1em;
+}
+
+.legal-main-title {
+	color: #01c2ad;
+	padding-bottom: 0.5em;
+	font-size: 2em;
+}
+
+.legal-sub-title {
+	color: #a96cf2;
+	padding-top: 1em;
+	font-size: 1.5em;
+}
