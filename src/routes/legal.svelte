@@ -1,4 +1,4 @@
-<main>
+<main id="top">
 	<a href="/" class="homeButton"><img src="/images/home.png" alt="home" /></a>
 
 	<h1 class="legal-site-title animate__animated animate__heartBeat mainTitle">

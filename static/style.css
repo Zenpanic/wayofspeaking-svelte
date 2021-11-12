@@ -1,6 +1,9 @@
-html {
+html,
+body {
 	background-color: #f7fafc;
 	scroll-behavior: smooth;
+	margin: 0 auto;
+	overflow: auto;
 }
 
 h2 {
