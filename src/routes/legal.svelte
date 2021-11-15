@@ -47,14 +47,13 @@
 			<br /><br />
 			Téléphone : + 33 6 99 49 73 16
 			<br /><br />
-			E-mail : ninadelgas92@gmail.com
+			E-mail : ninadelgas92 [at] gmail.com
 		</p>
 
 		<h3 class="legal-sub-title">Hébergement</h3>
 		<p>
-			L'hébergeur du site wayofspeaking.com est la Société Heroku Inc., dont le siège social est
-			situé au 650 7th Street, San Francisco, CA, USA , avec le numéro de téléphone : +33 1 (877)
-			563-4311.
+			L'hébergeur du site wayofspeaking.com est la société Netlify, dont le siège
+			social est situé au 2325 3rd St #215, San Francisco, Californie, USA.
 		</p>
 		<h3 class="legal-sub-title">Accès au site</h3>
 		<p>
